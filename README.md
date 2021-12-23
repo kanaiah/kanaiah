@@ -3,9 +3,10 @@
 - 🗄️ I'm a Software Engineer working at Micron Technologies. 
 - 👍 Interested in building high scale web applications.
 - 📚 Worked on Node.js, Javascript, Angular, JAVA, MongoDB, PostgreSQL, Redis.
+<!--
 - 📫 You can contact me at: kanaiahk@gmail.com
 
-<!--
+
 **kanaiah/kanaiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
